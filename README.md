@@ -1,5 +1,9 @@
 # MrDefault
 
+<p align="center">
+  <img src="MrDefault/Assets.xcassets/AppIcon.appiconset/icon_128.png" alt="MrDefault icon" width="128">
+</p>
+
 A lightweight macOS menu bar app for managing default file associations.
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)
@@ -40,7 +44,7 @@ swift build -c release
 
 ## Usage
 
-1. Click the 📄⚙️ icon in your menu bar
+1. Click the menu bar icon (doc with gear)
 2. Your pinned extensions appear in the popover
 3. Click the 🔄 button to change the default app for any extension
 4. Click "Open All Extensions…" for the full searchable list
