@@ -1,7 +1,7 @@
 # MrDefault
 
 <p align="center">
-  <img src="MrDefault/Assets.xcassets/AppIcon.appiconset/icon_128.png" alt="MrDefault icon" width="128">
+  <img src="assets/menubar-icon.png" alt="MrDefault menu bar icon" width="32">
 </p>
 
 A lightweight macOS menu bar app for managing default file associations.
