@@ -1,5 +1,5 @@
 # MrDefault
-
+Heve you even wondered what app opens your files? Now you will know!  
 A lightweight macOS menu bar app for managing default file associations.
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)
