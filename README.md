@@ -40,7 +40,7 @@ swift build -c release
 
 ## Usage
 
-1. Click the <img src="assets/menubar-icon.png" alt="menu bar icon" width="16"> icon in your menu bar
+1. Click the <img src="assets/menubar-icon.png?v=2" alt="menu bar icon" width="16"> icon in your menu bar
 2. Your pinned extensions appear in the popover
 3. Click the 🔄 button to change the default app for any extension
 4. Click "Open All Extensions…" for the full searchable list
