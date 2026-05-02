@@ -7,7 +7,7 @@
 
 cask "mrdefault" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "c2a648ba6f71f8b16e08074eba4220f31166081258a05051a6cf7c0ad6697975"
 
   url "https://github.com/ronhash10/MrDefault/releases/download/v#{version}/MrDefault-#{version}.dmg"
   name "MrDefault"
