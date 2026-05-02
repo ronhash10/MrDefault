@@ -1,9 +1,5 @@
 # MrDefault
 
-<p align="center">
-  <img src="MrDefault/Assets.xcassets/AppIcon.appiconset/icon_128.png" alt="MrDefault icon" width="128">
-</p>
-
 A lightweight macOS menu bar app for managing default file associations.
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)
